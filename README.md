@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class MinMaxVolue {
     public static void main(String[] args) {
         int a, b;
-        int min =0,max = 0,min1,max1;
+        int min =0,max = 0;
 
 
         Scanner input = new Scanner(System.in);
